@@ -1,0 +1,27 @@
+Para inserir 
+1000 inserções  80 campos no hash 
+3 campos  0.02655 milis 
+10 campos  0.1088 milis
+22 campos  0.1986 milis
+35 campos  0.2434 milis 
+50 campos  0.4035 milis 
+
+inserção
+5 campos com 80 campos no hash
+
+1000  inserções  0.047 milis
+10000 inserçoes 0.4520 milis 
+20000 inserções 1.0391 milis
+35000 inserções 2.2080 milis
+50000 inserções 3.3461 milis
+
+Deleção
+5 campos com 80 campos no hash
+50000 mil inserção
+
+1000  deleção 2.9213  milis = 0.4248 
+10000 deleção 3.0655  milis = 0.2806
+20000 deleção 3.0686  milis = 0.2765 
+35000 deleção 3.3150  milis = 0.0311
+
+ 

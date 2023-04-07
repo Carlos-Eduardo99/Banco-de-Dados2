@@ -1,0 +1,22 @@
+Para inserir 
+1000 inserções  ordem 5 na árvore
+3 campos 0.012026309967041016 milis
+10 campos 0.013021469116210938 milis
+22 campos 0.01794910430908203 milis
+35 campos 0.019945383071899414 milis
+50 campos 0.02493143081665039 milis
+
+inserção
+5 campos com ordem 5 na árvore
+
+1000  inserções 0.013125987633654 milis
+10000 inserçoes 0.244189756535874 milis 
+20000 inserções 0.422985635574568 milis
+35000 inserções 0.721895948945387 milis
+50000 inserções 1.200858116149902 milis
+
+Especificações do Computador utilizado para realizar os testes
+
+Processador - Intel(R) Core(TM) i7-7500U CPU @2.70 GHz
+Memória RAM - 12,00 GB
+Windows 10
